@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Database (optional, if you don't want to commit plans)
+backend/db/data.json

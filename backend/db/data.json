@@ -1,0 +1,13 @@
+{
+  "plans": [
+    {
+      "id": "plan_1760532612683",
+      "goal": "launch product in 2weeks",
+      "plan": {
+        "raw": "",
+        "note": "Could not parse JSON from LLM; see raw."
+      },
+      "createdAt": "2025-10-15T12:50:12.683Z"
+    }
+  ]
+}
