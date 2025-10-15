@@ -1,6 +1,6 @@
 
 
-                                                                **Smart Task Planner**
+                                                          **Smart Task Planner**
 
 ## 📋 Overview
 
