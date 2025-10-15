@@ -193,10 +193,4 @@ curl -X POST http://localhost:4000/api/tasks/plan \
 
 ---
 
-## 👩‍💻 Author
-
-**Guruvelli Yamini**
-📧 [guruvelliyamini@gmail.com](mailto:guruvelliyamini@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/guruvelli-yamini-892338260)
-💻 [GitHub](https://github.com/yam9835)
 
