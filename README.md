@@ -40,16 +40,13 @@ It allows users to input project goals, automatically create structured task bre
 smart-task-planner/
 ├── backend/
 │   ├── index.js               # Express server entry point
-│   ├── routes/                # API routes
-│   ├── controllers/           # Logic for task planning
-│   ├── models/                # MongoDB schemas
+│   ├── routes/                # API routes         
+│   ├── models/                
 │   ├── package.json
 │   ├── .env                   # Environment variables (keys, ports)
 │
 ├── frontend/
-│   ├── src/
-│   │   ├── components/        # UI components
-│   │   ├── pages/             # Main pages (Home, Dashboard)
+│   ├── src/        
 │   │   ├── App.js
 │   │   ├── index.js
 │   ├── package.json
